@@ -1,0 +1,16 @@
+{
+  "name"         : "KPL-scrapper",
+  "version"      : "0.0.1",
+  "description"  : "Search the KPL website for upcoming and current events.",
+  "main"         : "server.js",
+  "author"       : "Chase Bowlin",
+  "repository"   : {
+    "type" : "git",
+    "url"  : "https://github.com/chasebowlin/KPL-event-scraper"
+  },
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
